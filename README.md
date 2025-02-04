@@ -42,7 +42,7 @@ License
 This project is open-source and available under the MIT License.
 
 
-#IMAGE RESIZER
+# IMAGE RESIZER
 
 A simple Python script that resizes images using the Pillow library.
 
